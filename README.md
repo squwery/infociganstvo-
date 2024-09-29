@@ -1,2 +1,0 @@
-# infociganstvo-
-asd
