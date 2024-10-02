@@ -1,0 +1,75 @@
+.custom-class-navbar-bg {
+    margin-bottom: 40px;
+    background-color: gold !important;
+}
+
+.navbar-brand {
+    color: #000;
+}
+
+.nav-link {
+    color: #000;
+}
+
+.form-container {
+    border-radius: 20px;
+    background-color: gold;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.input-email {
+    padding-top: 20px;
+}
+
+.input-question-box {
+    padding-bottom: 20px;
+}
+
+.custom-button {
+    margin-bottom: 20px;
+    border: none;
+    color: #000;
+    background-color: snow;
+}
+
+.cards-container {
+    border-radius: 20px;
+    margin-top: 40px;
+    background-color: gold;
+}
+
+.first-card {
+    margin-top: 30px;
+    padding-bottom: 40px;
+}
+
+h1 {
+    padding-top: 20px;
+    text-align: center;
+}
+
+.card {
+    border: 1px solid black;
+}
+.card-title {
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.second-card {
+    margin-top: 30px;
+    padding-bottom: 40px;
+}
+
+.third-card {
+    padding-right: 0px;
+    margin-top: 30px;
+    padding-bottom: 40px;
+}
+
+.card-img-top {
+    height: 191px;
+}
+
+
